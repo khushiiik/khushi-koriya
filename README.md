@@ -11,11 +11,22 @@ I'm an MSc IT student with a focus on web development. With hands-on experience 
 ## 🌱 Current Learning Journey
 I'm diving deep into Java and React to strengthen my full-stack development skills while exploring UI/UX design principles to craft intuitive user experiences. My self-taught design journey with Figma has led me to create visually engaging posters.
 
-## 💡 Projects
-- **School Management System:** Developed a comprehensive student management system during my BCA, implementing effective data handling and user interface.
-- **Event Management System:** Created an event management platform that streamlined event planning and execution.
-- **Personal Projects:** Built a responsive car webpage and a Netflix clone to practice and showcase front-end development skills.
-- **Design Projects:** Self-taught Figma to design posters for Coca-Cola, Nike shoes, headphones, and Starbucks, enhancing my visual design capabilities.
+# 💡 Projects
+
+## School Management System
+Developed a comprehensive student management system during my BCA. Implemented effective data handling and user interface.
+
+## Event Management System
+Created an event management platform that streamlined event planning and execution.
+
+## Personal Projects
+- **Car Webpage:** Built a responsive car webpage using HTML, CSS, and Bootstrap to practice and showcase front-end development skills.
+- **Netflix Clone:** Developed a static Netflix clone using HTML and CSS to mimic the Netflix homepage.
+- **Voice-Activated Assistant:** Created a simple voice-activated assistant using Python. It can execute commands such as opening websites, scheduling reminders, and playing music.
+
+## Design Projects
+- **Figma Posters:** Self-taught Figma to design posters for Coca-Cola, Nike shoes, headphones, and Starbucks, enhancing my visual design capabilities.
+
 
 ## 🎯 Career Goals
 I aim to leverage my academic background and growing skill set to contribute to innovative projects as an intern or junior developer. My goal is to evolve into a proficient developer and eventually take on a senior role where I can lead the creation of software solutions that simplify everyday life.
