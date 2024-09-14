@@ -12,7 +12,7 @@ I'm an MSc IT student with a focus on web development. With hands-on experience 
 I'm diving deep into Java and React to strengthen my full-stack development skills while exploring UI/UX design principles to craft intuitive user experiences. My self-taught design journey with Figma has led me to create visually engaging posters.
 
 ## 💡 Projects
-- **Student Management System:** Developed a comprehensive student management system during my BCA, implementing effective data handling and user interface.
+- **School Management System:** Developed a comprehensive student management system during my BCA, implementing effective data handling and user interface.
 - **Event Management System:** Created an event management platform that streamlined event planning and execution.
 - **Personal Projects:** Built a responsive car webpage and a Netflix clone to practice and showcase front-end development skills.
 - **Design Projects:** Self-taught Figma to design posters for Coca-Cola, Nike shoes, headphones, and Starbucks, enhancing my visual design capabilities.
